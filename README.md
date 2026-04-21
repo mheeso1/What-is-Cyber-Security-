@@ -1,4 +1,4 @@
- What-is-Cyber-Security?
+ What is Cyber Security?
  Cyber Security Basics: Why It Matters More Than Ever
 
 In today’s digital world, cyber security is no longer optional, it’s essential. From personal data to financial transactions, almost everything we do online is a potential target for cyber threats.
